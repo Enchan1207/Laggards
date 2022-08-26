@@ -1,9 +1,7 @@
 # Laggards
 
-<p style="text-align:center;font-weight: bold;">
-取り残されよう。<br>
-追いつくのは、自分が欲したときでいい。
-</p>
+**取り残されよう。**  
+**追いつくのは、自分が欲したときでいい。**
 
 ## Overview
 
