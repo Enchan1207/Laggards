@@ -7,10 +7,11 @@
 .css-1dbjc4n.r-g6ijar.r-74htps.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1bro5k0.r-1udh08x,
 .css-1dbjc4n.r-1habvwh .css-1dbjc4n.r-dnmrzs.r-1vvnge1,
 .css-175oi2r.r-dnmrzs.r-1vvnge1,
+.css-175oi2r.r-dnmrzs.r-1559e4e,
 .css-175oi2r.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x.r-g6ijar.r-74htps {
     display: none;
 }
 
-a[href="/explore"], a[aria-label="コミュニティ"], a[aria-label="プレミアム"], a[href="/i/verified-choose"] {
+a[href="/explore"], a[aria-label="コミュニティ"], a[aria-label="プレミアム"], a[aria-label="Grok"], a[href="/i/verified-choose"] {
     display: none;
 }
