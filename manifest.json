@@ -12,7 +12,9 @@
                 "http://mobile.twitter.com/**",
                 "https://mobile.twitter.com/**",
                 "http://twitter.com/**",
-                "https://twitter.com/**"
+                "https://twitter.com/**",
+                "http://x.com/**",
+                "https://x.com/**"
             ],
             "css": [
                 "inject.css"
